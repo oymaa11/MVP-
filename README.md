@@ -139,9 +139,11 @@ The Inventory Forecasting MVP is intended to:
 
 1. **Clone the Repository and Set Up the Environment:**
    ```bash
+   DO CTRL + SHIFT P in the VS CODE, and select git clone then paste <repository link>
    git clone <repository_url>
    cd MVP
    python -m venv venv
+   
    # Activate the virtual environment:
    # On Windows: venv\Scripts\activate
    # On macOS/Linux: source venv/bin/activate

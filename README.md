@@ -148,3 +148,25 @@ The Inventory Forecasting MVP is intended to:
    # On Windows: venv\Scripts\activate
    # On macOS/Linux: source venv/bin/activate
    pip install -r requirements.txt
+
+
+   Here’s a quick and simple way to commit and push your changes to GitHub:  
+
+1. Add changes: Stage the files you changed:  
+   ```
+   git add .
+   ```
+   This stages all modified files. You can also specify a file like `git add filename`.
+
+2. Commit changes: Add a message describing what you changed:  
+   ```
+   git commit -m "Your message here"
+   ```
+   Keep the message short and descriptive.
+
+3. Push changes: Send your commits to GitHub:  
+   ```
+   git push origin main
+   ```
+   Replace `main` with your branch name if it’s different.  
+
